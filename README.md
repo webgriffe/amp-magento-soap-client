@@ -1,6 +1,8 @@
 AMP Magento 1.x SOAP Client
 =============================
 
+[![Build Status](https://travis-ci.org/webgriffe/amp-magento-soap-client.svg?branch=master)](https://travis-ci.org/webgriffe/amp-magento-soap-client)
+
 This is an asyncronous Magento 1.x SOAP client powered by [Amp](https://amphp.org/) and [clue/soap-react](https://github.com/clue/php-soap-react) client.
 
 Installation
